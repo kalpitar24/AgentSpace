@@ -1,0 +1,5 @@
+langchain
+faiss-cpu
+google-cloud-aiplatform
+vertexai
+PyPDF2
