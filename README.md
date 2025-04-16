@@ -2,23 +2,23 @@ rag-agent-vertex-eval/
 
 ├── your_docs/
 
-│   └── product_guide.pdf                # Your source PDFs
+│   └── product_guide.pdf               _ # Your source PDFs_
 
 ├── golden_dataset/
 
-│   └── golden_set.json                 # Generated Q&A (use golden_dataset_gen)
+│   └── golden_set.json                _ # Generated Q&A (use golden_dataset_gen)_
 
-├── rag_agent.py                        # Script to create and run the RAG agent
+├── rag_agent.py                       _ # Script to create and run the RAG agent_
 
-├── evaluate_agent.py                   # Evaluate agent against golden dataset
+├── evaluate_agent.py                 _  # Evaluate agent against golden dataset_
 
-├── generate_golden_dataset.sh          # Helper script to run golden_dataset_gen
+├── generate_golden_dataset.sh        _  # Helper script to run golden_dataset_gen_
 
-├── requirements.txt                    # Dependencies
+├── requirements.txt                 _   # Dependencies_
 
-├── rag_agent_colab.ipynb               # End-to-end Colab notebook
+├── rag_agent_colab.ipynb             _  # End-to-end Colab notebook_
 
-└── README.md                           # Instructions & usage
+└── README.md                         _  # Instructions & usage_
 
 
 
